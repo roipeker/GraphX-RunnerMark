@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Runner.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enemy0000" x="408" y="0" width="40" height="45" pivotX="0" pivotY="0"/>
+	<SubTexture name="enemy0001" x="408" y="0" width="40" height="45"/>
+	<SubTexture name="enemy0002" x="408" y="0" width="40" height="45"/>
+	<SubTexture name="enemy0003" x="448" y="0" width="40" height="45"/>
+	<SubTexture name="enemy0004" x="448" y="0" width="40" height="45"/>
+	<SubTexture name="enemy0005" x="448" y="0" width="40" height="45"/>
+	<SubTexture name="enemy0006" x="408" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0007" x="408" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0008" x="408" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0009" x="448" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0010" x="448" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0011" x="448" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0012" x="408" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0013" x="408" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0014" x="408" y="45" width="40" height="45"/>
+	<SubTexture name="enemy0015" x="448" y="0" width="40" height="45"/>
+	<SubTexture name="enemy0016" x="448" y="0" width="40" height="45"/>
+	<SubTexture name="enemy0017" x="448" y="0" width="40" height="45"/>
+	<SubTexture name="swc.Runner0000" x="0" y="0" width="68" height="134" pivotX="-1.3" pivotY="-1.5"/>
+	<SubTexture name="swc.Runner0001" x="0" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0002" x="0" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0003" x="68" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0004" x="68" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0005" x="68" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0006" x="136" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0007" x="136" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0008" x="136" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0009" x="204" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0010" x="204" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0011" x="204" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0012" x="272" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0013" x="272" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0014" x="272" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0015" x="340" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0016" x="340" y="0" width="68" height="134"/>
+	<SubTexture name="swc.Runner0017" x="340" y="0" width="68" height="134"/>
+</TextureAtlas>
